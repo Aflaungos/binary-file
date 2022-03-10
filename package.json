@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "int24": "0.0.1",
-    "yaz0-lib": "gitlab:ice-spear-tools/yaz0-lib"
+    "yaz0-lib": "https://gitlab.com/ice-spear-tools/yaz0-lib/-/archive/master/yaz0-lib-master.tar"
   }
 }
